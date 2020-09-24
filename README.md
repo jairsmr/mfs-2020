@@ -1,10 +1,16 @@
 # mfs-2020
 //comandos shell
+
 ls
+
 df
+
 top
+
 cd
+
 mkdir
+
 rm
 cat
 vi
