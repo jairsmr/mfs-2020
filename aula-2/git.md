@@ -1,1 +1,1 @@
-Tópicos: Infraestrutura (linha de comandos, git, github)
+Caso você use Windows, sugiro a utilização do wsl.
