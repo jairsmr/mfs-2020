@@ -1,1 +1,1 @@
-Tópicos: Infraestrutura (linha de comandos, git, github).
+Tópicos: Infraestrutura (linha de comandos, git, github)
