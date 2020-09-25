@@ -1,1 +1,1 @@
-Git é uma ferramenta para controle de versão. Ambiente-se com esta ferramenta.
+Tópico: Infraestrutura (linha de comandos, git e github).
